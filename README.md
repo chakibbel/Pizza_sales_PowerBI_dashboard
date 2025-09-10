@@ -25,6 +25,10 @@ The Power BI dashboard showcases these insights with visual representations such
 - Pie charts for revenue distribution by pizza category and size.
 - KPIs displaying total revenue, average order value, and total pizzas sold.
 
+## 📸 Dashboard Preview  
+![home_screenshot](https://github.com/chakibbel/Pizza_sales_PowerBI_dashboard/blob/main/screenshots/home_screenshots.png)
+![best_worst_sellers_screenshot](https://github.com/chakibbel/Pizza_sales_PowerBI_dashboard/blob/main/screenshots/sellers_screenshot.png)
+
 ## Quality Control (QC) Checks
 
 The following QC checks were performed using SQL to ensure data accuracy:
